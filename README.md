@@ -1,2 +1,1 @@
-# Collaborative_FoV_Prediction
-To predict future 360 FoV based on the information form earlier viewers
+explore and use latency information in Live 360 video streaming to enhance FoV prediction accuracy  
